@@ -6,7 +6,7 @@ rules:
   steps:
   - intent: thankyou
   - action: utter_despedida
-  - rule: Se desculpa toda vez que não sabe como responder
-    steps:
+- rule: Se desculpa toda vez que não sabe como responder
+  steps:
   - intent: Sorry
   - action: utter_desculpas
