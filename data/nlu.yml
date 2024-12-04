@@ -7,6 +7,7 @@ nlu:
     - Oi
     - Boa tarde
     - Boa noite
+    - Bom dia
   
 - intent: informar_borda
   examples: |
