@@ -90,3 +90,9 @@ stories:
     intent: bot_challenge
   - action: utter_iamabot
 
+# - story: donkey_bot
+#   steps:
+#   - user: |
+#       unknow question
+#     intent: donkey_bot
+#   - action: utter_iamsorry
